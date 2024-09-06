@@ -1,0 +1,5 @@
+flask
+elasticsearch
+pandas
+whoosh
+flask_restx
